@@ -267,6 +267,9 @@ WHERE (is_bullish_today = 1 AND was_bullish_yesterday = 0)
 ORDER BY date;
 ```
 
+![Open performance](/Assets/06_open_performance.png)
+
+
 **Breakdown / Insights:**
 
 Tesla experienced multiple Golden Crosses and Death Crosses over its trading history, highlighting periods of trend reversals and momentum shifts.
