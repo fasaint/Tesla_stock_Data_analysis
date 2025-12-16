@@ -46,6 +46,20 @@ FROM ts_data_staging
 ORDER BY date;
 ```
 
+| Metric                  | Value           |
+|:------------------------:|:---------------:|
+| Overall Min Open         | 1.08            |
+| Overall Max Open         | 475.90          |
+| Overall Avg Open         | 96.81           |
+| Overall Min Close        | 1.05            |
+| Overall Max Close        | 479.86          |
+| Overall Avg Close        | 96.78           |
+| Overall Min Volume       | 1,777,500       |
+| Overall Max Volume       | 914,082,000     |
+| Overall Avg Volume       | 96,900,423.22   |
+| Total Volume Traded      | 375,586,040,400 |
+
+
 Here's the breakdown of Tesla’s daily trading range:
 
 - Most daily trading ranges fall between 0.10 and 0.50, indicating that Tesla’s price generally moved within a predictable band during this period.
